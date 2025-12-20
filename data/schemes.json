@@ -1,0 +1,73 @@
+[
+  {
+    "id": "PM-KISAN-001",
+    "name": "Pradhan Mantri Kisan Samman Nidhi",
+    "description": "Direct income support scheme for farmers",
+    "states": ["ALL"],
+    "categories": ["ALL"],
+    "eligibility": {
+      "min_age": 18,
+      "max_age": null,
+      "min_income": null,
+      "max_income": null,
+      "genders": ["ALL"]
+    }
+  },
+  {
+    "id": "PM-AWAS-002",
+    "name": "Pradhan Mantri Awas Yojana",
+    "description": "Housing scheme for urban and rural poor",
+    "states": ["ALL"],
+    "categories": ["SC", "ST", "OBC", "General"],
+    "eligibility": {
+      "min_age": 18,
+      "max_age": null,
+      "min_income": null,
+      "max_income": 300000,
+      "genders": ["ALL"]
+    }
+  },
+  {
+    "id": "PM-UJJWALA-003",
+    "name": "Pradhan Mantri Ujjwala Yojana",
+    "description": "LPG connection scheme for women from below poverty line families",
+    "states": ["ALL"],
+    "categories": ["SC", "ST", "OBC"],
+    "eligibility": {
+      "min_age": 18,
+      "max_age": null,
+      "min_income": null,
+      "max_income": 100000,
+      "genders": ["female"]
+    }
+  },
+  {
+    "id": "KA-SCHOLAR-004",
+    "name": "Karnataka State Scholarship",
+    "description": "Educational scholarship for students",
+    "states": ["karnataka", "ka"],
+    "categories": ["SC", "ST", "OBC"],
+    "eligibility": {
+      "min_age": 15,
+      "max_age": 25,
+      "min_income": null,
+      "max_income": 200000,
+      "genders": ["ALL"]
+    }
+  },
+  {
+    "id": "MH-FARMER-005",
+    "name": "Maharashtra Farmer Relief Scheme",
+    "description": "Financial assistance for farmers in Maharashtra",
+    "states": ["maharashtra", "mh"],
+    "categories": ["ALL"],
+    "eligibility": {
+      "min_age": 18,
+      "max_age": 70,
+      "min_income": null,
+      "max_income": 500000,
+      "genders": ["ALL"]
+    }
+  }
+]
+
