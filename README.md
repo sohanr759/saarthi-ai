@@ -1,4 +1,4 @@
-# 🗣️ Saarthi AI  
+# Saarthi AI  
 **Voice-First, Explainable Government Scheme Assistant (Native Language)**
 
 Saarthi AI is a voice-driven, agentic AI system designed to help citizens discover and understand their eligibility for government welfare schemes through natural spoken conversations in a native Indian language.
